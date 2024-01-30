@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 this is added 2nd line commit for barnch
+=======
+this is added 2nd line commit for barnch
+
+
+
+added anither second line
+>>>>>>> vinay7
